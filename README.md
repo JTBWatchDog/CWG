@@ -1,2 +1,2 @@
-# CPS
-My attempt to get Pixelmon Reforged to better work with Cubic Chunks: Cubic Pixel Spawning
+# CWG
+My attempts at making my own world generator utilizing Cubic Chunks
